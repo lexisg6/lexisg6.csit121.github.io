@@ -1,0 +1,31 @@
+body{
+background-color: lightblue;
+}
+p{
+	color: red;
+	border: 1px solid grey;
+  	margin-top: 20px;
+  	margin-bottom: 100px;
+  	margin-right: 150px;
+  	margin-left: 50px;
+}
+
+h1{
+	font-family: verdana;
+	text-transform: capitalize;
+}
+h2{
+	font-family: verdana;
+}
+li{
+	margin: 10px;
+}
+a{
+	border: 2px solid darkred;
+	color: white;
+	background-color: red;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
